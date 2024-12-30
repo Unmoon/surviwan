@@ -1,6 +1,9 @@
 # Surviwan
-## For Neuro-sama Game Jam 2
+Made during Neuro-sama Game Jam 2  
 https://unmoon.itch.io/surviwan
+
+## License 
+Surviwan © 2024 by Unmoon is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### Running from source
 
