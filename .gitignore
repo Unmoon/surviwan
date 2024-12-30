@@ -1,0 +1,15 @@
+build/
+dist/
+venv/
+__pycache__/
+.idea/
+textures/big.png
+textures/flip_ghost.png
+textures/flip_ghost_red.png
+textures/ghost.png
+textures/ghost_red.png
+textures/hammer.png
+textures/heart.png
+textures/line.png
+textures/rng.png
+textures/sphere.png

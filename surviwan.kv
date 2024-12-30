@@ -1,0 +1,14 @@
+#:kivy 1.0.9
+#:import Player player
+
+<SurviwanGame>:
+    player: player
+
+    Player:
+        id: player
+        center: self.parent.center
+
+<Player>:
+    canvas:
+        Color:
+            rgba: 1, 1, 1, 0.8
